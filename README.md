@@ -1,1 +1,1 @@
-# weather-forecast
+# Zeitreihenprognose für die Wettervorhersage
