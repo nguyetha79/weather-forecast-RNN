@@ -16,7 +16,7 @@ Im Rahmen des Kurses "Grundlagen der Computational Intelligence" habe ich ein Pr
 - Aufteilung der Daten in Trainings- und Validierungssätze.
 - Erstellung von Zeitreihendatensätzen mit der Methode timeseries_dataset_from_array von Keras.
 
-**5. Modellaufbau:**:
+**5. Modellaufbau:**
 - Definition der LSTM-Modellarchitektur mit Input-, LSTM- und dense Layers.
 - Kompilierung des Modells mit dem Adam-Optimierer und der Mean Squared Error-Verlustfunktion.
 
