@@ -1,6 +1,6 @@
 # Weather Forecasting using RNN
 
-In the context of the course 'Foundations of Computational Intelligence,' I have carried out a related project that demonstrates how to use Recurrent Neural Networks (RNNs) with Long Short-Term Memory (LSTM) units for weather forecasting. The notebook `zeitreihenprognose_wettervorhersage.ipynb` includes the following key steps:
+In the context of the course 'Foundations of Computational Intelligence,' I have carried out a related project that demonstrates how to use Recurrent Neural Networks (RNNs) with Long Short-Term Memory (LSTM) units for weather forecasting to explore the impact of context size. The notebook `zeitreihenprognose_wettervorhersage.ipynb` includes the following key steps:
 
 1. **Setup and Data Preparation**:
    - Installation of required libraries including TensorFlow.
