@@ -1,5 +1,4 @@
 # Wettervorhersage mit RNN
----
 Im Rahmen des Kurses "Grundlagen der Computational Intelligence" habe ich ein Projekt durchgeführt, das zeigt, wie man Recurrent Neural Networks (RNNs) mit Long Short-Term Memory (LSTM)-Einheiten für die Wettervorhersage verwendet, um den Einfluss der Kontextgröße zu untersuchen. Das Notebook `zeitreihenprognose_wettervorhersage.ipynb` umfasst die folgenden wichtigen Schritte:
 
 **1. Datenvorbereitung:**
